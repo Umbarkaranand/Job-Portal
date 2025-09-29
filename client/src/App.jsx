@@ -4,6 +4,8 @@ import ApplyJob from './pages/ApplyJob'
 import Applications from './pages/Applications'
 import Home from './pages/Home'
 
+
+// 1 :46 time stop
 const App = () => {
   return (
     <div>
